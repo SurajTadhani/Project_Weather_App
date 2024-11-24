@@ -1,4 +1,7 @@
 import Navigation from "./components/Navigation";
+import React from "react";
+
+
 import Content from "./components/Content";
 import { useState, useEffect } from "react";
 import Spinner from "./components/Spinner";

@@ -1,9 +1,0 @@
-Api key => 3a1b4538c64dd70942f2fbb78b2dc4a8
-
-
-https://api.openweathermap.org/data/2.5/weather?q=ahmedabad&appid=3a1b4538c64dd70942f2fbb78b2dc4a8&units=metric
-
-
-
-
-
