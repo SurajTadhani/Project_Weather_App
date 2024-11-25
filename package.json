@@ -3,10 +3,21 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+<<<<<<< HEAD
 "scripts": {
   "start": "cross-env HOST=0.0.0.0 vite",
   "build": "vite build"
 },
+=======
+  "scripts": {
+  "start": "HOST=0.0.0.0 react-scripts start",
+
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+>>>>>>> 7b95d923541fdf59d2ff358fa3e541ff62f482d0
   "dependencies": {
     "@nextui-org/navbar": "^2.0.32",
     "@nextui-org/react": "^2.4.1",
